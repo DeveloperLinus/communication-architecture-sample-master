@@ -1,0 +1,5 @@
+include ':iot'
+include ':common'
+include ':proto'
+include ':app'
+rootProject.name = "Communication-architecture-sample-master"
